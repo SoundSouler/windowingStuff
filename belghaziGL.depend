@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1639332591 source:/home/naomi/Documents/Projects/belghaziGL/display.cpp
+	"display.h"
+	<iostream>
+	<SDL2/SDL.h>
+	<GL/glew.h>
+
+1639333121 /home/naomi/Documents/Projects/belghaziGL/display.h
+	<string>
+	<SDL2/SDL.h>
+	<SDL/SDL.h>
+	<GL/glew.h>
+
+1639332169 source:/home/naomi/Documents/Projects/belghaziGL/main.cpp
+	<iostream>
+	"display.h"
+	<GL/eglew.h>
+
